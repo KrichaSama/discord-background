@@ -1,0 +1,22 @@
+/* Custom Discord Background */
+body {
+    background-image: url('https://imgur.com/a/nd1P49R'); /* Replace with your direct image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Make the main Discord window slightly transparent */
+.appMount-3lHmkl {
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust transparency here */
+}
+
+/* Customize the chat area */
+.chatContent-a9vAAp {
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust transparency here */
+}
+
+/* Optional: Customize text color */
+.messageContent-2t3eCI {
+    color: #ffffff; /* White text */
+}
